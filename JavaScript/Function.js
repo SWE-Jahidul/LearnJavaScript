@@ -53,7 +53,18 @@
 // console.log(firstFunction(2,6))
 
 
-//################################## Invoked Function #####################################
+//################################## Invoking Function #####################################
+//javascript are invoked in 4 ways 
+//as function 
+//as method
+
+
+//Function Invocation
+
+
+
+
+
 
 
 
